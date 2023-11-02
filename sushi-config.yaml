@@ -7,8 +7,7 @@ canonical: https://profiles.ihe.net/PCC/mAPS.us
 version: 0.0.1-current
 name: IHE_PCC_mAPS_us
 title: "Antepartum Summary US Realm"
-description: Antepartum Summary is a content profile that defines the structure for the aggregation of significant events, diagnoses, and plans of care derived from the visits over the course of an
-antepartum episode.
+description: Antepartum Summary is a content profile that defines the structure for the aggregation of significant events, diagnoses, and plans of care derived from the visits over the course of an antepartum episode.
 releaseLabel: ci-build
 #releaseLabel: ballot
 #releaseLabel: trial-use
@@ -50,7 +49,7 @@ parameters:  # see https://confluence.hl7.org/display/FHIR/Implementation+Guide+
   apply-publisher: 'true'
   apply-version: 'true'
 
-resources:
+#resources:
 # list every example here with a name, description and that exampleBoolean is true; These are used to populate the artifacts page, and are needed to eliminate build warnings 
 # You may delay filling out this section until you approach publication as it is merely a nice to have and eliminates build warnings -- If you do this then you will need above the autoload-resources true
 
