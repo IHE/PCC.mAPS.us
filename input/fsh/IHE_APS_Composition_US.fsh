@@ -1,5 +1,5 @@
 Profile:   IHE_APS_Composition_US
-Parent: IHE_APS_Composition
+Parent: IHE.PCC.APS.Composition
 Id:             IHE.PCC.APS.Composition.US
 Title: "Antapartum Summary US Realm"
 Description:      """
