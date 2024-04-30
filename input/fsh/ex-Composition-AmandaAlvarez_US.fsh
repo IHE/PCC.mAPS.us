@@ -5,7 +5,7 @@ Description: "The Example instance for the Antepartum Summary composition for ex
 
 * meta.security = http://terminology.hl7.org/CodeSystem/v3-ActReason#HTEST
 * status = #final
-* type = $loinc#57055-6
+* title = "Antepartum Summary"
 * subject = Reference(Patient/ex-Patient-AmandaAlvarez)
 * date = "2023-01-08T14:30:00+01:00"
 * author = Reference(Practitioner/ex-Practitioner)

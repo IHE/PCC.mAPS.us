@@ -1,5 +1,5 @@
 Instance:   ex-pregnancy-edd
-InstanceOf: http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-pregnancy-edd-uv-ips
+InstanceOf: Observation
 Title:      "Pregnancy Estimated Due date example"
 Description: "Pregnancy Estimated Due date example"
 Usage: #example

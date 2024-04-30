@@ -1,5 +1,5 @@
 Instance:   ex-PregnencyStatus-pregnant
-InstanceOf: ObservationPregnancyStatusUvIps
+InstanceOf: USCoreObservationPregnancyStatusProfile
 Title:      "Pregnency Status - pregnant example"
 Description: "Example for Pregnency Status where patient is pregnant"
 Usage: #example
