@@ -8,6 +8,7 @@ Usage: #example
 * identifier.use = #usual 
 * identifier.type = http://terminology.hl7.org/CodeSystem/v2-0203#MR
 * identifier.value = "12345"
+* identifier.system = http://www.acme.com/identifiers/patient
 * identifier.period.start = "2001-05-06"
 * identifier.assigner = Reference(Organization/ex-Organization-OB)
 * name[+].use = #official
