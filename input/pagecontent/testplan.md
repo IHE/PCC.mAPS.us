@@ -3,8 +3,8 @@
 This Test Plan page is a prototype.   We expect the maturity of the content will improve over time.  For now, we summarize high level testing scope and available tools. Comments are welcome.
 </div>
 
+The Goals of testing for this National Extention for the US Realm is to test the conformance of the Antepartum Summary FHIR IG with confomance to US CORE. 
 
-**TODO: fill in the goals of the testing.
 
 ## Introduction
 
