@@ -1,5 +1,5 @@
 Instance:   ex-SocialHistory-EmploymentStatus
-InstanceOf: https://profiles.ihe.net/PCC/ODH/StructureDefinition/odh-EmploymentStatus
+InstanceOf: http://hl7.org/fhir/us/odh/StructureDefinition/odh-EmploymentStatus
 Title:      "Employment Status example"
 Description: "Example for Employment status"
 Usage: #example

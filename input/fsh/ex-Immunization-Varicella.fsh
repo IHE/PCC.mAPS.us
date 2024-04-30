@@ -1,5 +1,5 @@
 Instance: ex-Immunization-Vericella
-InstanceOf: ImmunizationUvIps
+InstanceOf: USCoreImmunizationProfile
 Usage: #example
 Description: "The Example instance for an immunizaiton - Vericella"
 

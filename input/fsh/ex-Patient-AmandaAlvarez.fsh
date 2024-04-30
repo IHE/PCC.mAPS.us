@@ -1,5 +1,5 @@
 Instance:   ex-Patient-AmandaAlvarez
-InstanceOf: PatientUvIps
+InstanceOf: https://profiles.ihe.net/ITI/PDQm/StructureDefinition/IHE.PDQm.Patient
 Title:      "Amanda Alvarez example"
 Description: "Amanda Alvarez patient example for antepartum summary"
 Usage: #example

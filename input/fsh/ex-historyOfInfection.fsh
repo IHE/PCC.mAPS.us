@@ -1,5 +1,5 @@
 Instance:   ex-HistoryOfInfection
-InstanceOf: ConditionUvIps
+InstanceOf: USCoreConditionProblemsHealthConcernsProfile
 Title:      "History Of Infection example"
 Description: "History Of Infection example"
 Usage: #example

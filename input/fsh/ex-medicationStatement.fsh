@@ -1,5 +1,5 @@
 Instance: ex-medicationStatement
-InstanceOf: MedicationStatementIPS
+InstanceOf: MedicationStatement
 Usage: #example
 Description: "The Example instance for the Medication Statement"
 

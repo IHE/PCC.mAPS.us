@@ -1,5 +1,5 @@
 Instance: ex-Procedure-EducationSmoking
-InstanceOf: ProcedureUvIps
+InstanceOf: USCoreProcedureProfile
 Usage: #example
 Description: "The Example instance for the procedure - Education Smoking"
 

@@ -1,5 +1,5 @@
 Instance:   ex-SocialHistory-smokingTobaccoUse
-InstanceOf: ObservationTobaccoUseUvIps
+InstanceOf: USCoreSmokingStatusProfile
 Title:      "Social History smoking Tobacco Use example"
 Description: "Example for Social History -  smoking Tobacco Use"
 Usage: #example
@@ -13,7 +13,7 @@ Usage: #example
 * valueCodeableConcept = $loinc#LA18976-3	
 
 Instance:   ex-SocialHistory-smokingTobaccoUse-formerSmoker
-InstanceOf: ObservationTobaccoUseUvIps
+InstanceOf: USCoreSmokingStatusProfile
 Title:      "Social History smoking Tobacco Use example"
 Description: "Example for Social History -  smoking Tobacco Use"
 Usage: #example

@@ -1,5 +1,5 @@
 Instance: ex-Allergy-Fish
-InstanceOf: AllergyIntoleranceUvIps
+InstanceOf: USCoreAllergyIntolerance
 Usage: #example
 Description: "The Example instance for the Allergy Intolerance - fish"
 

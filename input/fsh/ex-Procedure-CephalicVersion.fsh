@@ -1,5 +1,5 @@
 Instance: ex-Procedure-CephalicVersion
-InstanceOf: ProcedureUvIps
+InstanceOf: USCoreConditionProblemsHealthConcernsProfile
 Usage: #example
 Description: "The Example instance for the procedure - Cephalic Version"
 

@@ -1,5 +1,5 @@
 Instance: ex-Problem-Sepsis
-InstanceOf: ConditionUvIps
+InstanceOf: USCoreConditionProblemsHealthConcernsProfile
 Usage: #example
 Description: "The Example instance for the Problems - bacterial sepsis"
 

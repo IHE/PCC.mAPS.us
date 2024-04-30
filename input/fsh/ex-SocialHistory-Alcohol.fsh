@@ -1,5 +1,5 @@
 Instance:   ex-SocialHistory-alcoholUse
-InstanceOf: ObservationAlcoholUseUvIps
+InstanceOf: AlcoholUseFrequency
 Title:      "Social History alcohol Use example"
 Description: "Social History alcohol Use example"
 Usage: #example
