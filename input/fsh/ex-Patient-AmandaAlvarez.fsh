@@ -3,7 +3,6 @@ InstanceOf: USCorePatientProfile
 Title:      "Amanda Alvarez example"
 Description: "Amanda Alvarez patient example for antepartum summary"
 Usage: #example
-
 * meta.security = http://terminology.hl7.org/CodeSystem/v3-ActReason#HTEST
 * identifier.use = #usual 
 * identifier.type = http://terminology.hl7.org/CodeSystem/v2-0203#MR
