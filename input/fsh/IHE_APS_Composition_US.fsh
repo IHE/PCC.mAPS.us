@@ -14,4 +14,4 @@ For the US Realm
 * section[ChiefComplaint] MS
 * section[ReviewOfSystems] MS
 * section[PhysicalExams] MS
-* section[Payors] MS   
+* section[Payors] MS     
