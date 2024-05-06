@@ -1,6 +1,15 @@
 == Suppressed Messages ==
-# instructions for ignoreWarnings.txt https://confluence.hl7.org/pages/viewpage.action?pageId=66938614#ImplementationGuideParameters-ManagingWarningsandHints
-# IHE valueset that is not yet a real valueset
-Code System URI 'urn:ihe:event-type-code' is unknown so the code cannot be validated
+# IHE knows that the valuesets that are being used are not normative 
+INFORMATION: CareTeam/ex-careteam: CareTeam.participant[0].role[0].coding[0].system: A definition for CodeSystem 'http://example.org/mysys' could not be found, so the code cannot be validated
+INFORMATION: CareTeam/ex-careteam: CareTeam.participant[1].role[0].coding[0]: A definition for CodeSystem 'http://example.org/mysys' could not be found, so the code cannot be validated
+WARNING: Immunization/ex-Immunization-Vericella: Immunization.vaccineCode.coding[0].system: A definition for CodeSystem 'https://phinvads.cdc.gov/vads/ViewCodeSystem.action?id=2.16.840.1.113883.12.292' could not be found, so the code cannot be validated
+INFORMATION: Immunization/ex-Immunization-Vericella: Immunization.reportOrigin: Reference to draft CodeSystem http://terminology.hl7.org/CodeSystem/immunization-origin|1.0.0
+INFORMATION: MedicationStatement/ex-medicationStatement: MedicationStatement.dosage[0].doseAndRate[0].type: Reference to draft CodeSystem http://terminology.hl7.org/CodeSystem/dose-rate-type|1.0.0
+INFORMATION: Observation/ex-SocialHistory-EmploymentStatus: Observation.value.ofType(CodeableConcept): Reference to draft CodeSystem http://terminology.hl7.org/CodeSystem/v3-ObservationValue|3.0.0
+INFORMATION: Organization/ex-Coverage-Organization: Organization.type[0]: Reference to draft CodeSystem http://terminology.hl7.org/CodeSystem/organization-type|2.0.0
+INFORMATION: Organization/ex-Organization-OB: Organization.type[0]: Reference to draft CodeSystem http://terminology.hl7.org/CodeSystem/organization-type|2.0.0
+INFORMATION: StructureDefinition/IHE.advanceDirectives: StructureDefinition.snapshot.element[11].pattern.ofType(CodeableConcept): Reference to draft CodeSystem http://terminology.hl7.org/CodeSystem/consentscope|2.0.0
+INFORMATION: StructureDefinition/IHE.advanceDirectives: StructureDefinition.differential.element[1].pattern.ofType(CodeableConcept): Reference to draft CodeSystem http://terminology.hl7.org/CodeSystem/consentscope|2.0.0
+
 
 

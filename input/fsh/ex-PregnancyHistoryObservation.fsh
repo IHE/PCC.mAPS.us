@@ -37,3 +37,14 @@ Description: "The Example instance for the DateOfFirstPrenatalVisit observation"
 * valueDateTime = "2022-08-18"
 * performer = Reference(Practitioner/ex-Practitioner)
 * subject = Reference(Patient/ex-Patient-AmandaAlvarez)
+
+
+Instance: ex-NumberOfPregnancies
+InstanceOf: NumberOfPregnancies
+Usage: #example
+Description: "The Example instance for the NumberOfPregnancies observation"
+* status = http://hl7.org/fhir/observation-status#final
+* effectiveDateTime = "2021-10-06T10:52:30-07:00"
+* valueInteger = 3
+* performer = Reference(Practitioner/ex-Practitioner)
+* subject = Reference(Patient/ex-Patient-AmandaAlvarez)

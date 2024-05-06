@@ -23,3 +23,13 @@ Description: "The Example instance for the HCGPlus observation"
 * valueBoolean = true
 * performer = Reference(Practitioner/ex-Practitioner)
 * subject = Reference(Patient/ex-Patient-AmandaAlvarez)
+
+Instance: ex-FrequencyOfMenstrualCycles
+InstanceOf: FrequencyOfMenstrualCycles
+Usage: #example
+Description: "The Example instance for the FrequencyOfMenstrualCycles observation"
+* status = http://hl7.org/fhir/observation-status#final
+* effectiveDateTime = "2021-10-06T10:52:30-07:00"
+* valueQuantity = 24 'd' "days"
+* performer = Reference(Practitioner/ex-Practitioner)
+* subject = Reference(Patient/ex-Patient-AmandaAlvarez)
