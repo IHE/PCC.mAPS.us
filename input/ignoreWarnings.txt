@@ -11,6 +11,7 @@ INFORMATION: Organization/ex-Organization-OB: Organization.type[0]: Reference to
 INFORMATION: StructureDefinition/IHE.advanceDirectives: StructureDefinition.snapshot.element[11].pattern.ofType(CodeableConcept): Reference to draft CodeSystem http://terminology.hl7.org/CodeSystem/consentscope|2.0.0
 INFORMATION: StructureDefinition/IHE.advanceDirectives: StructureDefinition.differential.element[1].pattern.ofType(CodeableConcept): Reference to draft CodeSystem http://terminology.hl7.org/CodeSystem/consentscope|2.0.0
 INFORMATION: Condition/ex-HistoryOfInfection: Condition.category[0]: Reference to draft CodeSystem http://terminology.hl7.org/CodeSystem/condition-category|1.0.0
+INFORMATION: Condition/ex-Problem-GestationalDiabetes: Condition.category[0]: Reference to draft CodeSystem http://terminology.hl7.org/CodeSystem/condition-category|1.0.0
 
 
 
