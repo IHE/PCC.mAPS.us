@@ -6,7 +6,7 @@ Description: "The Example instance for the Problems - Gestational diabetes"
 * meta.security = http://terminology.hl7.org/CodeSystem/v3-ActReason#HTEST
 * clinicalStatus = http://terminology.hl7.org/CodeSystem/condition-clinical#active
 * verificationStatus = http://terminology.hl7.org/CodeSystem/condition-ver-status#confirmed
-* category = $sct#55607006
+* category = http://terminology.hl7.org/CodeSystem/condition-category#problem-list-item
 * severity = $sct#371924009
 * code = $sct#11687002
 * subject = Reference(Patient/ex-Patient-AmandaAlvarez)

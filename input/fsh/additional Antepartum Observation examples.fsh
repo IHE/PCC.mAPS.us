@@ -310,3 +310,13 @@ Description: "The Example instance for the Annotation Comment observation"
 * valueString = "all normal"
 * performer = Reference(Practitioner/ex-Practitioner)
 * subject = Reference(Patient/ex-Patient-AmandaAlvarez)
+
+Instance: ex-GestationalAge
+InstanceOf: GestationalAge
+Usage: #example
+Description: "The Example instance for the GestationalAge observation"
+* status = http://hl7.org/fhir/observation-status#final
+* effectiveDateTime = "2021-10-06T10:52:30-07:00"
+* valueQuantity = 14 'wk'
+* performer = Reference(Practitioner/ex-Practitioner)
+* subject = Reference(Patient/ex-Patient-AmandaAlvarez)
