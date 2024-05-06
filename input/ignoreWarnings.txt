@@ -12,6 +12,7 @@ INFORMATION: StructureDefinition/IHE.advanceDirectives: StructureDefinition.snap
 INFORMATION: StructureDefinition/IHE.advanceDirectives: StructureDefinition.differential.element[1].pattern.ofType(CodeableConcept): Reference to draft CodeSystem http://terminology.hl7.org/CodeSystem/consentscope|2.0.0
 INFORMATION: Condition/ex-HistoryOfInfection: Condition.category[0]: Reference to draft CodeSystem http://terminology.hl7.org/CodeSystem/condition-category|1.0.0
 INFORMATION: Condition/ex-Problem-GestationalDiabetes: Condition.category[0]: Reference to draft CodeSystem http://terminology.hl7.org/CodeSystem/condition-category|1.0.0
+INFORMATION: Condition/ex-Problem-Sepsis: Condition.category[0]: Reference to draft CodeSystem http://terminology.hl7.org/CodeSystem/condition-category|1.0.0
 
 
 
