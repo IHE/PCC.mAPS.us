@@ -6,7 +6,9 @@ Description: "The Example instance for the Problems - bacterial sepsis"
 * meta.security = http://terminology.hl7.org/CodeSystem/v3-ActReason#HTEST
 * clinicalStatus = http://terminology.hl7.org/CodeSystem/condition-clinical#active
 * verificationStatus = http://terminology.hl7.org/CodeSystem/condition-ver-status#confirmed
-* category = http://terminology.hl7.org/CodeSystem/condition-category#health-concern
+* category[+] = http://terminology.hl7.org/CodeSystem/condition-category#problem-list-item
+* category[+] = http://terminology.hl7.org/CodeSystem/condition-category#health-concern
+* category[+] = http://terminology.hl7.org/CodeSystem/condition-category#encounter-diagnosis
 * severity = $sct#371924009
 * code = $sct#281158006
 * subject = Reference(Patient/ex-Patient-AmandaAlvarez)
