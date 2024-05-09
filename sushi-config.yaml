@@ -3,17 +3,17 @@
 # the id should be lowercase made up of "ihe." + {domain acronym} + "." + {profile acronym/short-name}
 # e.g. ihe.iti.mhds, or ihe.iti.basicaudit
 id: ihe.pcc.maps.us
-canonical: https://profiles.ihe.net/PCC/mAPS.us
-version: 0.0.1-current
+canonical: https://profiles.ihe.net/us/PCC/mAPS.us
+version: 1.0.0-comment
 name: IHE_PCC_mAPS_us
 title: "Antepartum Summary US Realm"
 description: Antepartum Summary is a content profile that defines the structure for the aggregation of significant events, diagnoses, and plans of care derived from the visits over the course of an antepartum episode.
-releaseLabel: ci-build
-#releaseLabel: ballot
+#releaseLabel: ci-build
+releaseLabel: ballot
 #releaseLabel: trial-use
 #releaseLabel: release
-#date: 2022-01-02
-status: draft
+date: 2024-05-17
+status: active
 publisher:
   ## Find your domain contact on the https://www.ihe.net/ihe_domains page
   - name: IHE Patient Care Coordination Committee
