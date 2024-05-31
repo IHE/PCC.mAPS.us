@@ -6,8 +6,8 @@ id: ihe.pcc.maps.us
 canonical: https://profiles.ihe.net/us/PCC/mAPS.us
 version: 1.0.0-comment
 name: IHE_PCC_mAPS_us
-title: "Antepartum Summary US Realm"
-description: Antepartum Summary is a content profile that defines the structure for the aggregation of significant events, diagnoses, and plans of care derived from the visits over the course of an antepartum episode.
+title: "Mobile Antepartum Summary US Realm"
+description: Mobile Antepartum Summary is a content profile that defines the structure for the aggregation of significant events, diagnoses, and plans of care derived from the visits over the course of an antepartum episode.
 #releaseLabel: ci-build
 releaseLabel: ballot
 #releaseLabel: trial-use
@@ -77,19 +77,19 @@ pages:
     title: "Test Plan"
     generation: markdown
   other.md:
-    title: Changes to Other Documents
+    title: Changes to Other Specifications
     generation: markdown
   download.md:
     title: "Download and Analysis"
     generation: markdown
   issues.md:
-    title: Significant Changes & Issues
+    title: Significant Changes and Issues
     generation: markdown
 
 menu:
   Home: index.html
   Artifacts: artifacts.html
   Other:
-    Test Plan: testplan.html
     Changes to Other IHE Specifications: other.html
     Download and Analysis: download.html
+    Test Plan: testplan.html
