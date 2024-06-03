@@ -1,6 +1,6 @@
-**Antepartum Summary is a content profile that defines the structure for the aggregation of significant events, diagnoses, and plans of care derived from the visits over the course of an antepartum episode. **
+Mobile Antepartum Summary is a content profile that defines the structure for the aggregation of significant events, diagnoses, and plans of care derived from the visits over the course of an antepartum episode.
 
-**This National Extension is intended to be a summary for supporting pregnancy care prior to and leading up to delivery in the United States.**
+This National Extension is intended to be a summary for supporting pregnancy care prior to and leading up to delivery in the United States.
 
 <div markdown="1" class="stu-note">
 
@@ -13,12 +13,12 @@
 
 This guide is organized into the following sections:
 
-1. Nationl Extensions:
-   1. [Antepartum Summary US Realm](https://build.fhir.org/ig/IHE/PCC.mAPS.us/branches/master/StructureDefinition-IHE.PCC.APS.Composition.US.html#root)
-5. Other
-   1. [Test Plan](testplan.html)
+1. National Extensions:
+   1. [Mobile Antepartum Summary US Realm](https://build.fhir.org/ig/IHE/PCC.mAPS.us/branches/master/StructureDefinition-IHE.PCC.APS.Composition.US.html#root)
+1. Other
    1. [Changes to Other IHE Specifications](other.html)
    1. [Download and Analysis](download.html)
+   1. [Test Plan](testplan.html)
 
 See also the [Table of Contents](toc.html) and the index of [Artifacts](artifacts.html) defined as part of this implementation guide.
 
