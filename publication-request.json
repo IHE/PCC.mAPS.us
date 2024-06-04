@@ -1,7 +1,7 @@
 {
     "package-id" : "ihe.pcc.maps.us",
     "version" : "1.0.0-comment",
-    "path" : "https://profiles.ihe.net/us/PCC/mAPS.us/1.0.0-comment",
+    "path" : "https://profiles.ihe.net/us/PCC/mAPS/1.0.0-comment",
     "mode" : "milestone",
     "status" : "ballot",
     "sequence" : "Publication",

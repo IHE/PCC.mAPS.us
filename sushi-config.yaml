@@ -3,7 +3,7 @@
 # the id should be lowercase made up of "ihe." + {domain acronym} + "." + {profile acronym/short-name}
 # e.g. ihe.iti.mhds, or ihe.iti.basicaudit
 id: ihe.pcc.maps.us
-canonical: https://profiles.ihe.net/us/PCC/mAPS.us
+canonical: https://profiles.ihe.net/us/PCC/mAPS
 version: 1.0.0-comment
 name: IHE_PCC_mAPS_us
 title: "Mobile Antepartum Summary US Realm"
