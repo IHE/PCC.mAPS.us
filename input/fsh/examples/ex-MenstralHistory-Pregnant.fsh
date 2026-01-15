@@ -33,3 +33,13 @@ Description: "The Example instance for the FrequencyOfMenstrualCycles observatio
 * valueQuantity = 24 'd' "days"
 * performer = Reference(Practitioner/ex-Practitioner)
 * subject = Reference(Patient/ex-Patient-AmandaAlvarez)
+
+Instance: ex-MensesMonthly
+InstanceOf: MensesMonthly
+Usage: #example
+Description: "The Example instance for the MensesMonthly observation"
+* status = http://hl7.org/fhir/observation-status#final
+* effectiveDateTime = "2021-10-06T10:52:30-07:00"
+* valueBoolean = false
+* performer = Reference(Practitioner/ex-Practitioner)
+* subject = Reference(Patient/ex-Patient-AmandaAlvarez)

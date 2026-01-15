@@ -48,3 +48,43 @@ Description: "The Example instance for the NumberOfPregnancies observation"
 * valueInteger = 3
 * performer = Reference(Practitioner/ex-Practitioner)
 * subject = Reference(Patient/ex-Patient-AmandaAlvarez)
+
+Instance: ex-NumberOfPreviousCesareanDeliveries
+InstanceOf: NumberOfPreviousCesareanDeliveries
+Usage: #example
+Description: "The Example instance for the NumberOfPreviousCesareanDeliveries observation"
+* status = http://hl7.org/fhir/observation-status#final
+* effectiveDateTime = "2021-10-06T10:52:30-07:00"
+* valueInteger = 0
+* performer = Reference(Practitioner/ex-Practitioner)
+* subject = Reference(Patient/ex-Patient-AmandaAlvarez)
+
+Instance: ex-NumberOfBirthsStillLiving
+InstanceOf: NumberOfBirthsStillLiving
+Usage: #example
+Description: "The Example instance for the NumberOfBirthsStillLiving observation"
+* status = http://hl7.org/fhir/observation-status#final
+* effectiveDateTime = "2021-10-06T10:52:30-07:00"
+* valueInteger = 2
+* performer = Reference(Practitioner/ex-Practitioner)
+* subject = Reference(Patient/ex-Patient-AmandaAlvarez)
+
+Instance: ex-NumberOfPreviousLiveBirthsNowDead
+InstanceOf: NumberOfPreviousLiveBirthsNowDead
+Usage: #example
+Description: "The Example instance for the NumberOfPreviousLiveBirthsNowDead observation"
+* status = http://hl7.org/fhir/observation-status#final
+* effectiveDateTime = "2021-10-06T10:52:30-07:00"
+* valueInteger = 0
+* performer = Reference(Practitioner/ex-Practitioner)
+* subject = Reference(Patient/ex-Patient-AmandaAlvarez)
+
+Instance: ex-NumberOfPrenatalVisitsForThisPregnancy
+InstanceOf: NumberOfPrenatalVisitsForThisPregnancy
+Usage: #example
+Description: "The Example instance for the NumberOfPrenatalVisitsForThisPregnancy observation"
+* status = http://hl7.org/fhir/observation-status#final
+* effectiveDateTime = "2021-10-06T10:52:30-07:00"
+* valueInteger = 2
+* performer = Reference(Practitioner/ex-Practitioner)
+* subject = Reference(Patient/ex-Patient-AmandaAlvarez)
