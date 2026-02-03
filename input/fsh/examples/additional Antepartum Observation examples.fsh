@@ -99,7 +99,7 @@ Description: "The Example instance for the AntepartumVisitSummaryFlowsheetBatter
 * hasMember[=] = Reference(ex-PainSeverityReported)
 * hasMember[=] = Reference(ex-DateNextClinicVisit)
 * hasMember[=] = Reference(ex-AnnotationComment)
-
+  
 
 Instance: ex-bloodpressure-amanda-alvarez
 InstanceOf: http://hl7.org/fhir/StructureDefinition/bp
