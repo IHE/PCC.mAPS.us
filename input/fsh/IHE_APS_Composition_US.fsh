@@ -1,6 +1,6 @@
-Profile:   IHE_APS_Composition_US
-Parent: IHE.PCC.APS.Composition
-Id:             IHE.PCC.APS.Composition.US
+Profile:   IHE_PCC_mAPS_Composition_US
+Parent: IHE_PCC_mAPS_Composition
+Id:             IHE.PCC.mAPS.Composition.US
 Title: "Antepartum Summary US Realm"
 Description:      """
 Antepartum Summary is a content profile that defines the structure for the aggregation of significant events, diagnoses, and plans of care derived from the visits over the course of an antepartum episode. 

@@ -87,7 +87,7 @@ Description: "The Example instance for the AntepartumVisitSummaryFlowsheetBatter
 * hasMember[=] = Reference(ex-FetalHeartRateAuscultation)
 * hasMember[=] = Reference(ex-FetalMovementReported)
 * hasMember[=] = Reference(ex-bloodpressure-amanda-alvarez)
-* hasMember[=] = Reference(ex-vitalSigns-BodyWeight)
+* hasMember[=] = Reference(ex-VitalSigns-BodyWeight)
 * hasMember[=] = Reference(ex-PretermLaborSymptoms)
 * hasMember[=] = Reference(ex-CervicalCanalExternalosDiameterUltrasound)
 * hasMember[=] = Reference(ex-EffacementCervixPalpitation)

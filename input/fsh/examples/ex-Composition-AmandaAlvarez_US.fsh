@@ -1,5 +1,5 @@
 Instance: ex-APS-Composition-AmandaAlvarez
-InstanceOf: IHE_APS_Composition_US
+InstanceOf: IHE_PCC_mAPS_Composition_US
 Usage: #example
 Description: "The Example instance for the Antepartum Summary composition for example patient Amanda Alvarez"
 
@@ -10,7 +10,7 @@ Description: "The Example instance for the Antepartum Summary composition for ex
 * date = "2023-01-08T14:30:00+01:00"
 * author = Reference(Practitioner/ex-Practitioner)
 * confidentiality = http://terminology.hl7.org/CodeSystem/v3-Confidentiality#N
-* attester[0].mode = http://hl7.org/fhir/composition-attestation-mode#legal
+* attester[+].mode = http://hl7.org/fhir/composition-attestation-mode#legal
 * attester[=].time = "2023-01-08T14:30:00+01:00"
 * attester[=].party = Reference(Practitioner/ex-Practitioner)
 * attester[+].mode = http://hl7.org/fhir/composition-attestation-mode#legal
