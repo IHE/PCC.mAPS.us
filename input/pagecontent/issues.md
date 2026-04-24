@@ -5,7 +5,7 @@
 
 This is the first release of this Implementation Guide.
 
-##Issues
+## Issues
 
 ### Submit an Issue
 IHE welcomes [New Issues](https://github.com/IHE/PCC.mAPS.us/issues/new/choose) from the GitHub community. 
@@ -15,8 +15,8 @@ As issues are submitted they will be managed on the [mAPS.us GitHub Issues](http
 
 ### Open Issues
 
-- None
+None
 
 ### Closed Issues
 
-- None
+None
